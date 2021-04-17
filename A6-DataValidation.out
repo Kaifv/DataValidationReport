@@ -1,0 +1,128 @@
+Kaifkhan vakil,     Assignment 6                  
+
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  02    C040FRYIN-PAN.0185100000                  
+        NON ALPHA IN DESC                         
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  03    A141WHEELCHAIR1.25237912                  
+        PRICE IN TROUBLE                          
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  04    A042RING      1130                        
+        WRONG VENDOR SERIES                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  07    9060SINK      9500777777                  
+        WRONG MAINT CODE                          
+        PRICE IN TROUBLE                          
+        WRONG VENDOR SERIES                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  09    A030HANDLE    7500417610                  
+        PRICE IN TROUBLE                          
+        WRONG VENDOR SERIES                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  10    A795IRON        61211111                  
+        PRICE IN TROUBLE                          
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  13    EN05          9999999999                  
+        PART NO. NOT NUMERIC                      
+        WRONG MAINT CODE                          
+        PRICE IN TROUBLE                          
+        DESCRIPTION MISSING                       
+        WRONG VENDOR SERIES                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  14    A1K7** BILL **0000000000                  
+        PART NO. NOT NUMERIC                      
+        PRICE IN TROUBLE                          
+        NON ALPHA IN DESC                         
+        WRONG VENDOR SERIES                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  17    C240DESK PAD  0049                        
+        PRICE IN TROUBLE                          
+        WRONG VENDOR SERIES                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  19    C241TEMPLATE  5001ABCDEF                  
+        PRICE IN TROUBLE                          
+        WRONG VENDOR SERIES                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  20    A001          4999166700                  
+        DESCRIPTION MISSING                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  22     999CALENDER  0054174295                  
+        WRONG MAINT CODE                          
+        PRICE IN TROUBLE                          
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  29    A               01999999                  
+        PART NO. NOT NUMERIC                      
+        PRICE IN TROUBLE                          
+        DESCRIPTION MISSING                       
+        WRONG VENDOR SERIES                       
+
+    ERROR REPORT                                  
+
+RECORD  --------Raw Data--------                  NUMBER     and Error Messages                     
+
+  34    A702L.H. BENCH4999376142                  
+        NON ALPHA IN DESC                         
+
+TOTAL DATA   37                                   
+
+GOOD DATA   07                                    
+
+BAD DATA   14                                     
+
+GOOD ADDS   00                                    
+
+GOOD CHANGES   00                                 
+
+GOOD DELETES   07                                 
